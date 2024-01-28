@@ -22,3 +22,7 @@ To install Yt-featured, follow these steps:
 
   2. Install Android Studio and Simply Import the Project!
 
+images used in Project Credits
+Image by vectorjuiceon Freepik
+
+
