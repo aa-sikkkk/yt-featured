@@ -12,9 +12,9 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Features](#Features)
-  -[Contribute](#Contribute)
+- [Contribute](#Contribute)
 
 ## 🛰 Installation
 
