@@ -10,8 +10,9 @@ body {
   }
   
   section {
-    width: 90%; /* Set the desired width */
-  margin: 0 auto; /* Set left and right margins to auto */
+    width: 100%; /* Set the desired width */
+    flex: center;
+ 
   }
 
 .loader-box{
