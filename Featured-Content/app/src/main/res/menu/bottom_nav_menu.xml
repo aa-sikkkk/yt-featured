@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/video"
+        android:title="Video"
+        android:icon="@drawable/baseline_slow_motion_video_24"/>
+    <item
+        android:id="@+id/article"
+        android:title="Articles"
+        android:icon="@drawable/book"
+        />
+
+</menu>
