@@ -9,6 +9,11 @@
 ## ⚓️ Description
 
  I wanted to add a simple feature to my existing application; thought it might be helpful to others too! This project is for beginners that simplifies the process of retrieving video information from a specified playlist, allowing users to access key details such as video titles, thumbnails, and links.
+![s1](https://github.com/aa-sikkkk/yt-featured/assets/152005759/0cbf537d-cc30-4d05-9812-060bc3dbbc51)
+![s2](https://github.com/aa-sikkkk/yt-featured/assets/152005759/782a3eba-1478-4b90-9fdf-5b9f1421a6e4)
+
+
+
 
 
 ## 🛰 Installation
