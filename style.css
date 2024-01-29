@@ -10,8 +10,10 @@ body {
   }
   
   section {
-    width: 100%; /* Set the desired width */
-    flex: center;
+    width: 95%; /* Set the desired width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
  
   }
 
